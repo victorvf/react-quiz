@@ -84,12 +84,13 @@
 
 #### :computer: Contribuição:
 
-- Sinta-se a vontade para contribuir com este projeto. Basta você fazer um **fork** do projeto e abri uma **Pull Request**, bem simpĺes!
+- Sinta-se a vontade para contribuir com este projeto. Basta você fazer um **fork** do projeto, abri uma **Pull Request** e seguir alguns padrões descritos abaixo, bem simpĺes!
 
 - :warning: **Padrões a ser seguidos:**
     1. As perguntas devem conter as referências de suas respectivas respostas, caso ela não esteja contida na seção de [Referências](#book-referências).
-    2. *commits:* Gostaria que os commits seguissem este padrão:
-        - "chore(numero da questão ou local de modificação): mensagem" -> quando for feita alguma modificação em uma questão já existente.
-        - "feat: mensagem" -> quando for adicionada alguma questão nova ou secão nova.
+    2. *Commits:* Gostaria que os commits seguissem este padrão:
+        - "chore(numero da questão ou local de modificação): mensagem" -> quando for feita modificação em uma questão ou seção já existente.
+        - "feat: mensagem" -> quando for adicionada alguma questão ou seção nova.
+    3. Caso um *Seção* nova seja adicionada, as fotos devem ficar na pasta **.github**
 
-#### Obrigado pela contribuição! :two_hearts:
+#### Obrigado pela contribuição! :two_hearts: :two_hearts: :two_hearts:
