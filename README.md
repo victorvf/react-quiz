@@ -10,7 +10,7 @@
 </p>
 
 #### :bulb: Sobre:
-- Este repositório tem como intuito reunir as principais perguntas sobre React para levar conhecimento a todos!
+- Este repositório tem como intuito reunir as principais perguntas sobre React para levar conhecimento a todos e agora também com uma lista das principais tags do [HTML](https://github.com/victorvf/react-quiz/blob/master/HTML.md)!
 
 #### :memo: Perguntas:
 
@@ -91,6 +91,6 @@
     2. *Commits:* Gostaria que os commits seguissem este padrão:
         - "chore(numero da questão ou local de modificação): mensagem" -> quando for feita modificação em uma questão ou seção já existente.
         - "feat: mensagem" -> quando for adicionada alguma questão ou seção nova.
-    3. Caso um *Seção* nova seja adicionada, as fotos devem ficar na pasta **.github**
+    3. Caso um *Seção* nova seja adicionada com fotos, as fotos devem ficar na pasta **.github**
 
 #### Obrigado pela contribuição! :two_hearts: :two_hearts: :two_hearts:
